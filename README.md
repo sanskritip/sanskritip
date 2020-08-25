@@ -15,7 +15,8 @@
 <img align="left" src="https://img.icons8.com/officel/32/000000/react.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/react-native.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>  
+<p>&nbsp</p>
 
 ### Connect with me:
 [<img align="left" src="https://img.icons8.com/color/32/000000/linkedin.png"/>][linkedin]
