@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on multiple projects which are helping me boost my App development skills.
 - 👯 Looking out to collaborate with developers and work on fun projects. 
 - 🌱 Mini Goals: Learn and understand the intricacies of DevOps and Cloud Computing.
-- ⚡ Fun fact: I abosultely adore writing and art, and have quite recently started a [Blog][blog]!
+- ⚡ Fun fact: I absolutely adore writing and art, and have quite recently started a [Blog][blog]!
 - 📫 How to reach me : sanskriti.pattanayak@gmail.com
 
  ### Languages and Tools:
